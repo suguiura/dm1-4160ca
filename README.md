@@ -13,15 +13,15 @@ I'm not an expert in hardware configuration in linux and many of the options was
 Details
 -------
 
-*** Kernel
+### Kernel
 
-**** uname -a
+#### uname -a
 
     Linux maple 3.4.9-gentoo #6 SMP Thu Oct 4 17:28:52 PDT 2012 x86_64 AMD E-450 APU with Radeon(tm) HD Graphics AuthenticAMD GNU/Linux
 
-*** Hardware
+### Hardware
 
-**** lspci -v
+#### lspci -v
 
     00:00.0 Host bridge: Advanced Micro Devices [AMD] Family 14h Processor Root Complex
       Subsystem: Advanced Micro Devices [AMD] Family 14h Processor Root Complex
@@ -225,11 +225,11 @@ Details
     	Kernel driver in use: r8169
 
 
-*** Processor
+### Processor
 
 AMD Dual-Core E-450 VISION E2 Technology from AMD - 1.65 GHz
 
-**** cat /proc/cpuinfo
+#### cat /proc/cpuinfo
 
     processor  : 0
     vendor_id	: AuthenticAMD
