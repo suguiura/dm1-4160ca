@@ -289,6 +289,7 @@ AMD Dual-Core E-450 VISION E2 Technology from AMD - 1.65 GHz
 Links
 -----
 
+-   http://h10025.www1.hp.com/ewfrf/wc/softwareCategory?product=5218462
 -   http://h10010.www1.hp.com/wwpc/ca/en/ho/WF06b/321957-321957-3329744-64354-64354-5186797-5218464.html?dnr=1
 -   http://www.bestbuy.ca/en-CA/product/hewlett-packard-hp-pavillion-11-6-laptop-featuring-amd-e-450-dual-core-processor-dm1-4160ca-charcoal-dm1-4160ca/10194440.aspx
 -   http://www.amazon.ca/HP-Pavilion-DM1-4160CA11-6-inch-Notebook-VISION/dp/B00701OUM6
